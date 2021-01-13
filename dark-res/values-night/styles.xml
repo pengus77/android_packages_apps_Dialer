@@ -21,6 +21,7 @@
     <item name="android:colorBackgroundFloating">@*android:color/primary_dark_device_default_settings</item>
 
     <item name="android:colorButtonNormal">@*android:color/accent_device_default_dark</item>
+    <item name="android:statusBarColor">@*android:color/primary_dark_device_default_settings</item>
 
     <!-- These values should be used to set text color. -->
     <!-- swap text colors. -->
