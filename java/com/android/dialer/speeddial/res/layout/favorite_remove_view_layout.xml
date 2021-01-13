@@ -23,7 +23,7 @@
     android:id="@+id/favorite_remove_view"
     android:layout_width="match_parent"
     android:layout_height="@dimen/expanded_search_bar_height"
-    android:background="?android:attr/colorPrimary"
+    android:background="?android:attr/colorBackground"
     android:gravity="center"
     android:orientation="horizontal"
     android:visibility="invisible"

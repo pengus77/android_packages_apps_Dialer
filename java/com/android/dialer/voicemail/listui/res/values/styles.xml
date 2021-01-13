@@ -32,7 +32,7 @@
   <style name="TosTextStyle">
     <item name="android:textSize">16sp</item>
     <item name="android:textColor">@color/dialer_primary_text_color</item>
-    <item name="android:fontFamily">"@string/config_bodyFontFamily"</item>
+    <item name="android:fontFamily">"@string/config_headlineFontFamilyMedium"</item>
     <item name="android:lineSpacingExtra">8sp</item>
   </style>
 

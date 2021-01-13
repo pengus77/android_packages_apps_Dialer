@@ -45,7 +45,7 @@
         android:paddingBottom="@dimen/call_composer_contact_container_padding_bottom"
         android:paddingStart="16dp"
         android:paddingEnd="16dp"
-        android:background="?android:attr/colorPrimary">
+        android:background="?android:attr/colorBackground">
 
         <TextView
           android:id="@+id/contact_name"
@@ -103,7 +103,7 @@
         android:layout_height="@dimen/call_composer_media_bar_height"
         android:orientation="horizontal"
         android:gravity="center_horizontal"
-        android:background="?android:attr/colorPrimaryDark"
+        android:background="?android:attr/colorBackground"
         android:clickable="true">
 
       <ImageView

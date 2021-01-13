@@ -58,7 +58,7 @@
     <View
         android:layout_width="match_parent"
         android:layout_height="1dp"
-        android:background="#e3e3e3"/>
+        android:background="?android:attr/colorPrimary"/>
 
   </LinearLayout>
 
@@ -120,7 +120,7 @@
             android:background="@android:color/transparent"
             android:cursorVisible="false"
             android:focusableInTouchMode="true"
-            android:fontFamily="@*android:string/config_bodyFontFamily"
+            android:fontFamily="@*android:string/config_headlineFontFamilyMedium"
             android:freezesText="true"
             android:gravity="center"
             android:importantForAutofill="no"
@@ -149,7 +149,7 @@
   <View
       android:layout_width="match_parent"
       android:layout_height="1dp"
-      android:background="#e3e3e3"/>
+      android:background="?android:attr/colorPrimary"/>
 
   <Space
       android:layout_width="match_parent"

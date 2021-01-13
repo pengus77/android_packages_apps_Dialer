@@ -216,7 +216,7 @@ public class LetterTileDrawable extends Drawable {
       // Scale text by canvas bounds and user selected scaling factor
       paint.setTextSize(scale * letterToTileRatio * minDimension);
       paint.getTextBounds(firstChar, 0, 1, rect);
-      paint.setTypeface(Typeface.create("@*android:string/config_bodyFontFamily", Typeface.NORMAL));
+      paint.setTypeface(Typeface.create("@*android:string/config_headlineFontFamilyMedium", Typeface.NORMAL));
       paint.setColor(tileFontColor);
       paint.setAlpha(ALPHA);
 
